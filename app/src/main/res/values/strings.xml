@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Salutation</string>
+    <string name="salut">SALUT</string>
+    <color name="ColorPrimary">#6dce4e</color>
+    <color name="ColorPrimaryDark">#34ad0c</color>
+    <color name="ColorAccent">#d72957</color>
+</resources>
